@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-- [Hashnode](https://hashnode.com/@RahulLrnit)
+- 📝 Read my blogs - [Hashnode](https://hashnode.com/@RahulLrnit)
 
 <!---
 

@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning  Javascript
 
 <!-- - 👀 I’m interested in ...
-
+:
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+ ... -->
+ - 📫 How to reach me - [Twitter](https://twitter.com/Rahul_lrnit)      [Linkedin](https://www.linkedin.com/in/rahul-phoolbhati-14732622a/)
 - 📝 Read my blogs - [Hashnode](https://hashnode.com/@RahulLrnit)
 
 <!---

@@ -7,7 +7,7 @@
 :
 - 💞️ I’m looking to collaborate on ...
  ... -->
- - 📫 How to reach me - [Twitter](https://twitter.com/Rahul_lrnit)      [Linkedin](https://www.linkedin.com/in/rahul-phoolbhati-14732622a/)
+ - 📫 How to reach me - &nbsp; [Twitter](https://twitter.com/Rahul_lrnit) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/rahul-phoolbhati-14732622a/)
 - 📝 Read my blogs - [Hashnode](https://hashnode.com/@RahulLrnit)
 
 <!---

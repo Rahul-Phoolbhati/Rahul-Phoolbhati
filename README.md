@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=Rahul-Phoolbhati&color=brightgreen)
 
-- 🏢 SDE-Platform at One Impression.
+- 🏢 SDE-Platform at One Impression (Building AI Enabled Creator Economy).
 - 📘 Graduate from [Nitj](https://www.nitj.ac.in/)
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to make things scalable.

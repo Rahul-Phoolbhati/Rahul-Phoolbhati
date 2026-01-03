@@ -10,7 +10,7 @@
  ... -->
  <!--
  - 📫 How to reach me - &nbsp; [Twitter](https://twitter.com/Rahul_lrnit) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/rahul-phoolbhati-14732622a/)
-- 📝 Read my blogs - [Hashnode](https://hashnode.com/@RahulLrnit)
+- 📝 Read my blogs - [Hashnode](https://hashnode.com/@RahulLrnit) [Personal-Site](https://rahul-phoolbhati.github.io/blog_content)
 -->
 <!---
 
@@ -27,13 +27,16 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=Rahul-Phoolbhati&color=brightgreen)
 
-- 📘 Student at [Nitj](https://www.nitj.ac.in/)
-- 🏢 SDE Intern at Hirers.
+- 🏢 SDE-Platform at One Impression.
+- 📘 Graduate from [Nitj](https://www.nitj.ac.in/)
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to make things scalable.
 <!-- 💻 I love exploring new tech stacks and building cool stuff. -->
 - 📰 Reading people whenever possible , love to talk about psychology ❤.
-- 🥅 2024 Goals: Learn Cloud.
+- 📝 Read my blogs - [Personal-Site](https://rahul-phoolbhati.github.io/blog_content) [Hashnode](https://hashnode.com/@RahulLrnit)
+ <!---
+- 🥅 2026 Goals: Learn Cloud.
+--->
 
 ---
 
